@@ -1,0 +1,27 @@
+#gfg{
+    font-family: arial, sans-serif;
+    border-collapse:separate;
+    width: 70%;
+    padding-left:10%;
+    padding-top: 3%;
+    margin-left: 9%;
+  }
+  
+  #x1{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+ 
+
+  #x2{
+    left:90%;
+  }
+  #int7{
+    text-align: absolute;
+    padding-top: 40px;
+    padding-left: 650px;
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+  }

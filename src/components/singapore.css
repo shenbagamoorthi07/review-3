@@ -1,0 +1,48 @@
+.chennaibg{
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+    position: sticky;
+    }
+    #btn1{
+      height: 50px;
+      width: 100px;
+      position: absolute;
+      left: 10%;
+      top: 20%;
+      background-color:azure;
+      border-radius: 12px;
+    }
+   
+    #btn2{
+      height: 50px;
+      width: 100px;
+      position: absolute;
+      left: 10%;
+      top: 40%;
+      background-color:azure;
+      border-radius: 12px;
+    }
+    #btn3{
+      height: 50px;
+      width: 100px;
+      position: absolute;
+      left: 10%;
+      top: 60%;
+      background-color:azure;
+      border-radius: 12px;
+    }
+    #btn4{
+      height: 50px;
+      width: 100px;
+      position: absolute;
+      left: 10%;
+      top: 80%;
+      background-color:azure;
+      border-radius: 12px;
+  
+    }
+    #kr{
+      color: black;
+    }

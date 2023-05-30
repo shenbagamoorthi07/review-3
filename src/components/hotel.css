@@ -1,0 +1,73 @@
+#int {
+  
+    text-align: absolute;
+    padding-top: 40px;
+    padding-left: 690px;
+    font-style:italic;
+    font-family:Arial, Helvetica, sans-serif;
+  
+    
+  }
+  
+  #foren{
+    position: absolute;
+    left:35%;
+    padding-top:90px ;
+  }
+  
+  #host{
+    height:35px;
+    width:70%;
+  }
+  
+  
+  #tik{
+    position: absolute;
+    left:45%;
+    padding-top:15px ;
+    font-size:x-large;
+  }
+  
+  
+  
+  #date{
+    height:50px;
+    width:130%;
+    margin-left: 21px;
+  }
+  #dat{
+    height:50px;
+    width:125%;
+    margin-left: 22px;
+  }
+  #dat1{
+    height:50px;
+    width:160%;
+    margin-left: 22px;
+  }
+  #dat7{
+    height:50px;
+    width:160%;
+    margin-left: 22px;
+  }
+  #m6{
+    height:50px;
+    width:100%;
+    margin-left: 21px;
+  }
+  #mon
+  {
+    
+      margin-left: 140px;
+      margin-top: 15px;
+    
+  }
+  .vk{
+    background-repeat: no-repeat;
+    background-image: url("https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+  }
+ 
+  

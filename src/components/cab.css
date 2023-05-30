@@ -1,0 +1,58 @@
+#interiors {
+  
+    text-align: absolute;
+    padding-top: 40px;
+    padding-left: 730px;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+ 
+    
+  }
+ 
+  #forms{
+    position: absolute;
+    left:40%;
+    padding-top:40px ;
+  }
+  #sabs{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 67%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+   
+  }
+  #unos{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 88%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+  }
+  #sas{
+    border-radius: 10px;
+    width:21%;
+    height:60px; 
+  }
+  #ross{
+    margin-left: 150px;
+    height:50px;
+    width:100px;
+    border-radius: 12px;
+    background-color:azure;
+  }
+  #dabs{
+    width:25%;
+    
+  }
+  .cabbg{
+    background-repeat: no-repeat;
+    background-image: url("https://webneel.com/wallpaper/sites/default/files/images/07-2013/8%20bmw%20car%20wallpaper.jpg");
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+  }

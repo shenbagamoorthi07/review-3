@@ -1,0 +1,60 @@
+#fan{
+    display: block;
+    height: 50px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 3px;
+    border-color: rgb(221, 255, 0);
+    padding: 0 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+  }
+  ::placeholder{
+      color: rgb(0, 0, 0);
+  }
+  
+  .login-form{
+  height: 320px;
+  width: 400px;
+  background-color: rgba(229, 255, 0, 0.13);
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 49%;
+  left: 50%;
+  border-radius: 10px;
+  backdrop-filter:inherit;
+  border: 2px solid rgba(255, 0, 0, 0.1);
+  box-shadow: 0 0 40px rgba(239, 243, 0, 0.6);
+  padding: 50px 35px;
+  }
+  #sam{
+    margin-top: 10px;
+    width: 100%;
+    background-color: rgb(255, 255, 0);
+    color: #2ccece;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .title {
+    text-align: center;
+    width: 20vw;
+    
+    font-size: 2rem;
+    font-family:italic;
+  }
+  .bgimg{
+    background-image: url("https://images.pexels.com/photos/3293148/pexels-photo-3293148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+    position: sticky;
+  }
+  #mh{
+    background-color:rgb(255, 0, 200);
+  }
+   

@@ -1,0 +1,107 @@
+#interior {
+  
+    text-align: absolute;
+    padding-top: 40px;
+    padding-left: 700px;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+ 
+    
+  }
+ 
+  #form{
+    position: absolute;
+    left:40%;
+    padding-top:40px ;
+  }
+  #sab{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 67%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+   
+  }
+  #uno{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 88%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+  }
+  #sa{
+    border-radius: 10px;
+    width:21%;
+    height:60px; 
+  }
+  #ros{
+    margin-left: 175px;
+    height:50px;
+    width:100px;
+    background-color: rgb(63, 63, 237);
+  }
+  #dab{
+    width:25%;
+  }
+#interior {
+  
+    text-align: absolute;
+    padding-top: 40px;
+    padding-left: 700px;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(212, 255, 0);
+ 
+    
+  }
+ 
+  #form{
+    position: absolute;
+    left:40%;
+    padding-top:30px ;
+    color: rgb(7, 211, 242);
+  }
+  #sab{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 67%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+   
+  }
+  #uno{
+    height:50px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    width: 88%;
+    padding: 2vw 1vw;
+    outline: none;
+    margin: 5px;
+  }
+  #sa{
+    border-radius: 10px;
+    width:21%;
+    height:60px; 
+  }
+  #ros{
+    margin-left: 175px;
+    height:50px;
+    width:100px;
+    background-color: rgb(229, 255, 0);
+  }
+  #dab{
+    width:25%;
+  }
+.signbg{
+  background-repeat: no-repeat;
+  background-image: url("https://cdn.theculturetrip.com/wp-content/uploads/2023/04/stocksy_txp8f31cbadfme300_medium_4403617-1.jpg");
+  height: 100vh;
+  overflow: hidden;
+  background-size: cover;
+}

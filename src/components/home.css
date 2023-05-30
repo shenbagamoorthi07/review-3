@@ -1,0 +1,46 @@
+#tem{
+    text-align: absolute;
+    padding-top: 150px;
+    padding-left: 150px;
+    font-style:italic;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(64, 255, 0);
+    }  
+    .city{
+      position: absolute;
+      left: 10%;
+      margin-top: 1%;
+    }
+    .front{
+      background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg");
+      background-repeat: no-repeat;
+      height:100vh;
+      overflow: hidden;
+       background-size: cover;
+    
+    }
+  #mar{
+    text-decoration: none;
+  }
+  #lon{
+    text-decoration: none;
+    color: azure;
+  }
+  #nit{
+    margin-left :600px;
+    margin-top: 7%;
+  }
+  #s1{
+    margin-left: 12%;
+    font-style:oblique;
+  }
+  #bl{
+    color:rgb(255, 255, 255);
+  }
+  #blu{
+    color:rgb(64, 255, 0);
+  }
+  #demo-simple-select-label
+  {
+    color: aqua;
+  }
